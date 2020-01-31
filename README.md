@@ -1,16 +1,12 @@
-# [Curso completo de Machine Learning: Data Science en Python](https://www.udemy.com/course/machinelearningpython/)
+# [Curso completo de Machine Learning: Data Science en Python]
 
 ## Requisitos
-* Se necesitan conocimientos de matemáticas de bachillerato o conocimientos básicos de estadística
+* Se necesitan conocimientos de matemáticas y conocimientos básicos de estadística
 * Se recomienda saber programar un poco para enfocarse en aprender las técnicas de análisis en Python aunque no es totalmente necesario
 ## Descripción
-¿Te suenan las palabras Machine Learning o Data Scientist? ¿Te pica la curiosidad de para qué sirven estas técnicas o por qué empresas de todo el mundo pagan un sueldo de 120.000 hasta 200.000$ al año a un científico de datos? 
+¿Te suenan las palabras Machine Learning o Data Scientist? ¿Sientes curiosidad de para qué sirven estas técnicas o por qué empresas de todo el mundo están en la busqueda de contratar a un científico de datos? 
 
-Pues este curso está pensado y diseñado por todo un profesional del mundo del Data Science como es Juan Gabriel Gomila, de modo que os va a compartir todo su conocimiento y ayudaros a entender la teoría tan compleja sobre las matemáticas que tiene detrás, los algoritmos y librerías de programación con Python para convertiros en todo unos expertos a pesar de que no tengáis experiencia previa. 
-
-Veremos paso a paso como empezar a trabajar con conceptos y algoritmos del mundo del Machine Learning. Con cada nueva clase y sección que completes tendrás unas nuevas habilidades que te ayudarán a entender este mundo tan completo y lucrativo que puede ser esta rama del Data Science.
-
-También decirte que este curso es muy divertido, en la línea de Juan Gabriel Gomila y que aprenderás y te divertirás mientras vas aprendiendo acerca de técnicas de Machine Learning con Python. En particular, los temas que trabajaremos serán los siguientes:
+Los siguientes tutoriales te ayudarán a desarrollar tus habilidades de manera sencilla y desde tu casa. Los tutoriales están divididos en diferentes secciones, donde cada una marca un nivel diferente de conocimiento.
 
 - Parte 1 - Instalación de Python y paquetes necesarios para data science, machine learning y visualización de los datos
 - Parte 2 - Evolución histórica del análisis predictivo y el machine learning
